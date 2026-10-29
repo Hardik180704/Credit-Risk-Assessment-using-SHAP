@@ -12,6 +12,14 @@ End-to-end credit risk scoring system: an XGBoost loan-default classifier, hyper
 
 ---
 
+## Screenshots
+
+| Dark mode — high-risk verdict | Light mode — low-risk verdict |
+|:---:|:---:|
+| ![Dark mode — high-risk assessment returned a 98.0% calibrated default probability above the 0.507 threshold](assets/dark-mode.png) | ![Light mode — low-risk assessment returned a 3.3% calibrated default probability below the 0.507 threshold](assets/light-mode.png) |
+
+---
+
 ## Table of contents
 
 1. [Overview](#overview)
